@@ -1,11 +1,11 @@
 Summary:	A simple TODO manager
 Name:		glista
-Version:	0.2.1
+Version:	0.4
 Release:	%mkrel 1
 License:	GPLv3
 Group:		Office
 Url:		http://prematureoptimization.org/glista/
-Source0:	http://glista.googlecode.com/files/%{name}-%{version}.tar.bz2
+Source0:	http://glista.googlecode.com/files/%{name}-%{version}.tar.gz
 BuildRequires:	gtk2-devel
 BuildRequires:	libxml2-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
@@ -46,4 +46,3 @@ that does what it's supposed to, and does not get in your way.
 %{_bindir}/%{name}
 %{_datadir}/applications/*.desktop
 %{_datadir}/%{name}
-%{_datadir}/pixmaps/*.png
