@@ -1,7 +1,7 @@
 Summary:	A simple TODO manager
 Name:		glista
 Version:	0.4
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	GPLv3
 Group:		Office
 Url:		http://prematureoptimization.org/glista/
