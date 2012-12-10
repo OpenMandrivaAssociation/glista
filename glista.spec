@@ -46,3 +46,26 @@ that does what it's supposed to, and does not get in your way.
 %{_bindir}/%{name}
 %{_datadir}/applications/*.desktop
 %{_datadir}/%{name}
+
+
+%changelog
+* Sun Dec 05 2010 Oden Eriksson <oeriksson@mandriva.com> 0.4-4mdv2011.0
++ Revision: 610862
+- rebuild
+
+* Sat Feb 13 2010 Tomasz Pawel Gajc <tpg@mandriva.org> 0.4-3mdv2010.1
++ Revision: 505578
+- rebuild
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - rebuild
+
+* Tue Nov 11 2008 Funda Wang <fwang@mandriva.org> 0.4-1mdv2009.1
++ Revision: 302044
+- new version 0.4
+
+* Fri Aug 29 2008 Tomasz Pawel Gajc <tpg@mandriva.org> 0.2.1-1mdv2009.0
++ Revision: 277132
+- import glista
+
+
