@@ -4,7 +4,7 @@ Version:	0.4
 Release:	5
 License:	GPLv3
 Group:		Office
-Url:		http://prematureoptimization.org/glista/
+Url:		https://prematureoptimization.org/glista/
 Source0:	http://glista.googlecode.com/files/%{name}-%{version}.tar.gz
 BuildRequires:	gtk2-devel
 BuildRequires:	libxml2-devel
