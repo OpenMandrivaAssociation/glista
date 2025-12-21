@@ -6,6 +6,11 @@ License:	GPLv3
 Group:		Office
 Url:		https://prematureoptimization.org/glista/
 Source0:	http://glista.googlecode.com/files/%{name}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	gtk2-devel
 BuildRequires:	libxml2-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
